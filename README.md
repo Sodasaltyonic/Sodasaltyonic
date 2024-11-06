@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Sodasaltyonic
+- 👀 I’m interested in Sonic, Mario, Kirby, etc
+- 🌱 I’m currently learning how to work with GMS2 and Godot/Redot
+- 💞️ I’m looking to collaborate on game engines and other stuff
+- 📫 How to reach me ... idk, the times?
+- 😄 Pronouns: He/Him, straight
+- ⚡ Fun fact: Green Hills from Sonic 2 8-bit is a Green Hill clone
